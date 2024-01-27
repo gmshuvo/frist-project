@@ -9,3 +9,9 @@
     font-weight: bold;
     color: #1ab02e;
 }
+
+.sunset_img{
+    width: 400px;
+    height: 100%;
+    object-fit: contain;
+}
